@@ -1,11 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T17:16:08.174Z",
+  "generatedAt": "2026-10-30T18:59:07.525Z",
   "generator": "dsh-github-community/0.3.0-rc.3",
   "owner": "StarWind97",
   "repo": "dsh-community-test",
   "branch": "main",
   "posts": [
+    {
+      "id": "01M672W5M5390MK2P3WBVGMDZT",
+      "title": "桌面图文验收：对话草稿",
+      "path": "posts/2026-10-30-桌面图文验收-对话草稿-01M672W5M5390MK2P3WBVGMDZT.md",
+      "url": "https://github.com/StarWind97/dsh-community-test/blob/main/posts/2026-10-30-%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%96%87%E9%AA%8C%E6%94%B6-%E5%AF%B9%E8%AF%9D%E8%8D%89%E7%A8%BF-01M672W5M5390MK2P3WBVGMDZT.md",
+      "publishedAt": "2026-10-30T18:59:07.525Z",
+      "updatedAt": null,
+      "tags": [
+        "测试",
+        "对话整理"
+      ],
+      "excerpt": "这是一份由固定回复测试模型生成的候选，用于验证对话转帖操作链路。 保留一条参考链接：DeepSeek Harness。 发布前可以修改标题、正文和图片。"
+    },
     {
       "id": "01M66WZK3E4CQD5G5DA46NGB3Y",
       "title": "图文测试：把开发笔记留在自己的仓库",
