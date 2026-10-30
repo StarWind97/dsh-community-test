@@ -1,0 +1,45 @@
+name: Build community feed
+
+# 在 GitHub 网页/手机/其他编辑器里手写帖子后，自动重建 feed.json。
+# 插件自己发布时会同时更新 feed.json，所以这个 Action 通常是一次空操作。
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'posts/**'
+      - 'profile.json'
+      - 'following.json'
+      - 'scripts/build-feed.mjs'
+      - '.github/workflows/community-feed.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: community-feed-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Rebuild feed.json
+        run: node scripts/build-feed.mjs
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- feed.json; then
+            echo "feed.json unchanged"
+            exit 0
+          fi
+          git config user.name "dsh-community-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add feed.json
+          git commit -m "chore(feed): rebuild index [skip ci]"
+          git push

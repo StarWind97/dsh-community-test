@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "displayName": "开发测试",
+  "bio": "这是 DSH 社区插件的功能测试主页。",
+  "avatar": "https://github.com/StarWind97.png",
+  "lang": "zh",
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/StarWind97"
+    }
+  ]
+}
