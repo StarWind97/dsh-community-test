@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T07:32:18.800Z",
+  "generatedAt": "2026-10-31T07:34:15.633Z",
   "generator": "dsh-github-community/0.3.0-rc.3",
   "owner": "StarWind97",
   "repo": "dsh-community-test",
@@ -12,12 +12,12 @@
       "path": "posts/2026-10-31-发帖组件界面验收-01M68DZ9QGXH13V979KRES605J.md",
       "url": "https://github.com/StarWind97/dsh-community-test/blob/main/posts/2026-10-31-%E5%8F%91%E5%B8%96%E7%BB%84%E4%BB%B6%E7%95%8C%E9%9D%A2%E9%AA%8C%E6%94%B6-01M68DZ9QGXH13V979KRES605J.md",
       "publishedAt": "2026-10-31T07:32:18.800Z",
-      "updatedAt": null,
+      "updatedAt": "2026-10-31T07:34:15.633Z",
       "tags": [
         "界面测试",
         "开发记录"
       ],
-      "excerpt": "今天把发帖区整理成了一个完整的小空间。 写下想法，配上一张图片，预览后再发布。"
+      "excerpt": "今天把发帖区整理成了一个完整的小空间。 写下想法，配上一张图片，预览后再发布。 补记：编辑按钮与保存流程已完成实际检查。"
     },
     {
       "id": "01M66WZK3E4CQD5G5DA46NGB3Y",
