@@ -1,21 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T06:20:56.756Z",
+  "generatedAt": "2026-10-31T06:22:08.192Z",
   "generator": "dsh-github-community/0.3.0-rc.3",
   "owner": "StarWind97",
   "repo": "dsh-community-test",
   "branch": "main",
   "posts": [
-    {
-      "id": "01M689JJNTB0GDXSPHW95RYH9G",
-      "title": "桌面图文界面验收",
-      "path": "posts/2026-10-31-桌面图文界面验收-01M689JJNTB0GDXSPHW95RYH9G.md",
-      "url": "https://github.com/StarWind97/dsh-community-test/blob/main/posts/2026-10-31-%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%96%87%E7%95%8C%E9%9D%A2%E9%AA%8C%E6%94%B6-01M689JJNTB0GDXSPHW95RYH9G.md",
-      "publishedAt": "2026-10-31T06:15:27.674Z",
-      "updatedAt": "2026-10-31T06:20:15.075Z",
-      "tags": [],
-      "excerpt": "桌面图文界面验收 已经在独立桌面完成编辑，图片与链接保持可阅读。 项目仓库"
-    },
     {
       "id": "01M689C0KQVBRW3SK8C9SRM5DZ",
       "title": "网页直接发帖验收",
