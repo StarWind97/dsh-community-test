@@ -1,21 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T06:22:08.192Z",
+  "generatedAt": "2026-10-31T06:22:27.734Z",
   "generator": "dsh-github-community/0.3.0-rc.3",
   "owner": "StarWind97",
   "repo": "dsh-community-test",
   "branch": "main",
   "posts": [
-    {
-      "id": "01M689C0KQVBRW3SK8C9SRM5DZ",
-      "title": "网页直接发帖验收",
-      "path": "posts/2026-10-31-网页直接发帖验收-01M689C0KQVBRW3SK8C9SRM5DZ.md",
-      "url": "https://github.com/StarWind97/dsh-community-test/blob/main/posts/2026-10-31-%E7%BD%91%E9%A1%B5%E7%9B%B4%E6%8E%A5%E5%8F%91%E5%B8%96%E9%AA%8C%E6%94%B6-01M689C0KQVBRW3SK8C9SRM5DZ.md",
-      "publishedAt": "2026-10-31T06:11:52.567Z",
-      "updatedAt": "2026-10-31T06:20:56.756Z",
-      "tags": [],
-      "excerpt": "网页直接发帖验收 这篇普通测试帖已通过“我的帖子”进入编辑，检查正文修改与中文提交说明。"
-    },
     {
       "id": "01M66WZK3E4CQD5G5DA46NGB3Y",
       "title": "图文测试：把开发笔记留在自己的仓库",
