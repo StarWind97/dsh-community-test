@@ -1,11 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T08:42:38.384Z",
+  "generatedAt": "2026-11-01T11:07:20.220Z",
   "generator": "dsh-github-community/0.3.0-rc.3",
   "owner": "StarWind97",
   "repo": "dsh-community-test",
   "branch": "main",
   "posts": [
+    {
+      "id": "01M6BCNQRW9FNQS44XT7E3V1TE",
+      "title": "公园散步小记（功能测试）",
+      "path": "posts/2026-11-01-公园散步小记-功能测试-01M6BCNQRW9FNQS44XT7E3V1TE.md",
+      "url": "https://github.com/StarWind97/dsh-community-test/blob/main/posts/2026-11-01-%E5%85%AC%E5%9B%AD%E6%95%A3%E6%AD%A5%E5%B0%8F%E8%AE%B0-%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95-01M6BCNQRW9FNQS44XT7E3V1TE.md",
+      "publishedAt": "2026-11-01T11:07:20.220Z",
+      "updatedAt": null,
+      "tags": [
+        "功能测试",
+        "生活记录"
+      ],
+      "excerpt": "公园散步小记 这是一篇 DSH笔记功能测试的普通示例。 带上水杯和相机，沿着树荫慢慢走。坐下来时，可以记下今天见到的一种颜色。 随手清单 - 水杯 - 相机 - 一点空闲时间 图片是自制的几何示意图，不代表真实地点照片。"
+    },
     {
       "id": "01M66WZK3E4CQD5G5DA46NGB3Y",
       "title": "图文测试：把开发笔记留在自己的仓库",
