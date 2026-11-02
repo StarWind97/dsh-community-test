@@ -1,23 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T06:46:27.372Z",
+  "generatedAt": "2026-11-02T06:55:13.602Z",
   "generator": "dsh-github-community/0.3.0-rc.3",
   "owner": "StarWind97",
   "repo": "dsh-community-test",
   "branch": "main",
   "posts": [
-    {
-      "id": "01M6DG4RSCHB6Q3H9FBXACZZVS",
-      "title": "纸艺展布置说明（图文分享示例）",
-      "path": "posts/2026-11-02-纸艺展布置说明-图文分享示例-01M6DG4RSCHB6Q3H9FBXACZZVS.md",
-      "url": "https://github.com/StarWind97/dsh-community-test/blob/main/posts/2026-11-02-%E7%BA%B8%E8%89%BA%E5%B1%95%E5%B8%83%E7%BD%AE%E8%AF%B4%E6%98%8E-%E5%9B%BE%E6%96%87%E5%88%86%E4%BA%AB%E7%A4%BA%E4%BE%8B-01M6DG4RSCHB6Q3H9FBXACZZVS.md",
-      "publishedAt": "2026-11-02T06:46:27.372Z",
-      "updatedAt": null,
-      "tags": [
-        "纸艺"
-      ],
-      "excerpt": "周日下午 15:20 开始布置纸艺展。先挂三张纸样，再摆好两个木夹。 这张合成图用于跨设备阅读演示。"
-    },
     {
       "id": "01M66WZK3E4CQD5G5DA46NGB3Y",
       "title": "图文测试：把开发笔记留在自己的仓库",
